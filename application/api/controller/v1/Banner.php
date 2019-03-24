@@ -24,7 +24,7 @@ class Banner
     public function getBanner($id)
     {
         return 1;
-        echo "3";
+        
     }
 
 
